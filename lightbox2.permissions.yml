@@ -1,0 +1,4 @@
+# In lightbox2.permissions.yml file.
+lightbox2 administration:
+  title: 'Administer lightbox2 module'
+  description: 'Perform administration tasks for lightbox2 module.'

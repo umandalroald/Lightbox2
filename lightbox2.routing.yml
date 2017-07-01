@@ -1,0 +1,7 @@
+lightbox2.settings:
+  path: '/admin/config/user-interface/lightbox2'
+  defaults:
+    _form: '\Drupal\lightbox2\Form\Lightbox2SettingsForm'
+    _title: 'Lightbox2 settings'
+  requirements:
+    _permission: 'administer site configuration'

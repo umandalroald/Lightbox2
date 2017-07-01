@@ -1,0 +1,5 @@
+lightbox2.settings:
+  title: Lightbox2
+  description: 'Configure Lightbox2 settings'
+  route_name: lightbox2.settings
+  parent: system.admin_config_ui
